@@ -1,0 +1,4 @@
+Fayez Alchohuf Portfolio Website
+
+Upload index.html to the ROOT of your GitHub Pages repository.
+The images folder is reserved for portfolio images. Add images there and reference them as images/filename.jpg.
